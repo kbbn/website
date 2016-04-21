@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<html>
+<head><title>Humaniora KBBN</title>
+<link rel="stylesheet" type="text/css" href="footer.css">
+</head>
+<body>
+<div id="container">
+<div class="sub-menu">
+<ul>
+<a href="#"><li>koppeling</li></a>
+<a href="#"><li>koppeling</li></a>
+<a href="#"><li>koppeling</li></a>
+<a href="#"><li>koppeling</li></a>
+<a href="#"><li>koppeling</li></a>
+</ul>
+</div>
+<div class="main-content">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed mi ut eros sollicitudin lacinia. Integer ac ultricies nisl. Maecenas egestas ex at ligula sagittis, ut volutpat tortor porta. Nam porta orci vel dolor dapibus ullamcorper. Duis nisl nibh, efficitur in interdum eget, hendrerit malesuada diam. Nulla eu massa vel leo varius egestas nec ut mi. Fusce tincidunt, felis non feugiat sagittis, dolor metus rhoncus lorem, in rhoncus massa magna nec risus. Cras at magna tristique, mollis libero vel, feugiat lectus. Quisque dignissim lacinia aliquet. Etiam at sapien at orci placerat finibus. Nam sed est feugiat, consequat metus sit amet, molestie justo. Quisque ante eros, ornare vitae elementum id, blandit sed orci. Quisque aliquam eleifend ipsum non fringilla.
+</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed mi ut eros sollicitudin lacinia. Integer ac ultricies nisl. Maecenas egestas ex at ligula sagittis, ut volutpat tortor porta. Nam porta orci vel dolor dapibus ullamcorper. Duis nisl nibh, efficitur in interdum eget, hendrerit malesuada diam. Nulla eu massa vel leo varius egestas nec ut mi. Fusce tincidunt, felis non feugiat sagittis, dolor metus rhoncus lorem, in rhoncus massa magna nec risus. Cras at magna tristique, mollis libero vel, feugiat lectus. Quisque dignissim lacinia aliquet. Etiam at sapien at orci placerat finibus. Nam sed est feugiat, consequat metus sit amet, molestie justo. Quisque ante eros, ornare vitae elementum id, blandit sed orci. Quisque aliquam eleifend ipsum non fringilla.
+</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed mi ut eros sollicitudin lacinia. Integer ac ultricies nisl. Maecenas egestas ex at ligula sagittis, ut volutpat tortor porta. Nam porta orci vel dolor dapibus ullamcorper. Duis nisl nibh, efficitur in interdum eget, hendrerit malesuada diam. Nulla eu massa vel leo varius egestas nec ut mi. Fusce tincidunt, felis non feugiat sagittis, dolor metus rhoncus lorem, in rhoncus massa magna nec risus. Cras at magna tristique, mollis libero vel, feugiat lectus. Quisque dignissim lacinia aliquet. Etiam at sapien at orci placerat finibus. Nam sed est feugiat, consequat metus sit amet, molestie justo. Quisque ante eros, ornare vitae elementum id, blandit sed orci. Quisque aliquam eleifend ipsum non fringilla.
+</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed mi ut eros sollicitudin lacinia. Integer ac ultricies nisl. Maecenas egestas ex at ligula sagittis, ut volutpat tortor porta. Nam porta orci vel dolor dapibus ullamcorper. Duis nisl nibh, efficitur in interdum eget, hendrerit malesuada diam. Nulla eu massa vel leo varius egestas nec ut mi. Fusce tincidunt, felis non feugiat sagittis, dolor metus rhoncus lorem, in rhoncus massa magna nec risus. Cras at magna tristique, mollis libero vel, feugiat lectus. Quisque dignissim lacinia aliquet. Etiam at sapien at orci placerat finibus. Nam sed est feugiat, consequat metus sit amet, molestie justo. Quisque ante eros, ornare vitae elementum id, blandit sed orci. Quisque aliquam eleifend ipsum non fringilla.
+</p>
+</div>
+</div>
+<footer>
+<div class="foot">
+<div class="over">
+<h3>Over humaniora KBBN</h3>
+<p>
+Met onze 300 leerlingen zijn we een &quot;kleine grote&quot; school in het Brussels Gewest. Leerkrachten en directie zijn aanspreekbaar door iedereen, en we gaan er prat op dat we onze leerlingen na een tijdje door en door kennen. Ook dankzij intensieve leerlingenbegeleiding en de samenwerking met ons CLB proberen we ervoor te zorgen dat iedereen zich tiptop in zijn vel voelt.<br/>
+<br/>
+Dankzij onze &quot;grootste tuin van Brussel&quot; zijn we wellicht ook de groenste school van het gewest. Een bosverkenning voor biologie? Een frisse neus tijdens de speeltijd? Een buitenles bij mooi zomerweer? Geen enkel probleem!
+</p>
+</div>
+<div class="contact">
+<h3>Contact</h3>
+<p>
+Humaniora KBBN<br/>
+Straatlaan 123<br/>
+9870 Utopia<br/>
+<br/>
+Tel: 012 345 678<br/>
+Fax: 012 345 679<br/>
+E-mail: <a href="mailto:info@humaniorakbbn.be">info@humaniorabbkn.be</a><br/>
+</p>
+</div>
+</div>
+
+</footer>
+
+</body>
+</html>
